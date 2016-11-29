@@ -1,0 +1,18 @@
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\bin\Debug\ExampleRestApiCalling.exe.config
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\bin\Debug\ExampleRestApiCalling.exe
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\bin\Debug\ExampleRestApiCalling.pdb
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\obj\Debug\ExampleRestApiCalling.csprojResolveAssemblyReference.cache
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\obj\Debug\ExampleRestApiCalling.exe
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\obj\Debug\ExampleRestApiCalling.pdb
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\bin\Debug\Newtonsoft.Json.dll
+c:\users\aramos\documents\visual studio 2015\Projects\ExampleRestApiCalling\ExampleRestApiCalling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\bin\Debug\ExampleRestApiCalling.exe.config
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\obj\Debug\ExampleRestApiCalling.exe
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\obj\Debug\ExampleRestApiCalling.pdb
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\bin\Debug\ExampleRestApiCalling.exe
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\bin\Debug\ExampleRestApiCalling.pdb
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\obj\Debug\ExampleRestApiCalling.csprojResolveAssemblyReference.cache
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\bin\Debug\demo.xml
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\bin\Debug\certpassword.txt
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\bin\Debug\CSD01_AAA010101AAA.cer
+C:\Users\ARAMOS\Documents\git\swservices-dotnet-example.git\ExampleRestApiCalling\bin\Debug\CSD01_AAA010101AAA.key
