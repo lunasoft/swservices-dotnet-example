@@ -58,7 +58,7 @@ namespace ExampleRestApiCalling
 }
 ```
 #### Timbrar CFDI V1 #####
-*TimbrarV1 Recive el contenido de una factura en string en **Base64**, si la factura y el token son correctos devuelve el complemento timbre en un string (**TFD**), en caso contrario lanza una excepción.*
+*TimbrarV1 Recive el contenido de una factura en string en Base64, si la factura y el token son correctos devuelve el complemento timbre en un string (TFD), en caso contrario lanza una excepción.*
 
 ```cs
 using System;
@@ -125,7 +125,7 @@ namespace ExampleRestApiCalling
 }
 ```
 #### Timbrar CFDI V2 #####
-*TimbrarV2 es muy similar a TimbrarV1, con la diferencia de que el resultado en lugar de ser solo el complemento timbre (**TFD**), es la factura ya timbrada (**CFDI más TFD**).*
+*TimbrarV2 es muy similar a TimbrarV1, con la diferencia de que el resultado en lugar de ser solo el complemento timbre (TFD), es la factura ya timbrada (CFDI más TFD).*
 
 ```cs
 using System;
@@ -192,7 +192,7 @@ namespace ExampleRestApiCalling
 }
 ```   
 #### Cancelar CFDI ####
-*Para esta implementaci&oacute;n es necesario mandar los archivos .**CER**, .**KEY** y **PASSWORD** junto con el **UUID** de la factura que se desea cancelar.*
+*Para esta implementaci&oacute;n es necesario mandar los archivos **.CER, .KEY y PASSWORD** junto con el **UUID** de la factura que se desea cancelar.*
 
 ```cs
 usingusing System;
